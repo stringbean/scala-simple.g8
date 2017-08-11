@@ -1,9 +1,8 @@
-// give the user a nice default project!
-lazy val root = (project in file(".")).
-  settings(
-    inThisBuild(List(
-      organization := "com.example",
-      scalaVersion := "2.11.8"
-    )),
-    name := "scala-simple"
-  )
+name := "$name$"
+organization := "$organization$"
+
+scalaVersion := "2.11.8"
+
+libraryDependencies ++= Seq(
+  "org.scalatest" %% "scalatest" % "3.0.3" % "test"
+)
