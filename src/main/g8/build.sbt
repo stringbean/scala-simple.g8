@@ -1,8 +1,8 @@
 name := "$name$"
 organization := "$organization$"
 
-scalaVersion := "2.11.8"
+scalaVersion := "$scalaVersion$"
 
 libraryDependencies ++= Seq(
-  "org.scalatest" %% "scalatest" % "3.0.3" % "test"
+  "org.scalatest" %% "scalatest" % "$scalatestVersion$" % "test"
 )
