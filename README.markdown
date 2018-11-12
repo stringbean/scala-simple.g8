@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/stringbean/scala-simple.g8.svg?branch=master)](https://travis-ci.org/stringbean/scala-simple.g8)
 
-A [Giter8][g8] template for basic Scala 2.11 projects with Scalatest
+A [Giter8][g8] template for basic Scala 2.12 projects with Scalatest
 
 Template license
 ----------------
