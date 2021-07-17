@@ -1,0 +1,1 @@
+addSbtPlugin("org.scalameta" % "sbt-scalafmt" % "$scalafmt_version$")

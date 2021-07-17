@@ -1,4 +1,6 @@
 target
+.bsp
+.metals
 
 # ignore vim swap files
 *~
@@ -11,3 +13,4 @@ target
 *.sc
 
 .DS_Store
+.vscode
